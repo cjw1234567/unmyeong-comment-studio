@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.local*/
+.env
+.env.*
+!.env.example
+.runtime/
+tmp/
+test-results/
+playwright-report/
+coverage/
+.DS_Store
+*.log
+
+# Reference assignment is local-only, not a submission artifact.
+*.pdf

@@ -1,0 +1,25 @@
+{
+  "realPosting": {
+    "status": "verified",
+    "note": "2026-10-15 22:45 KST 유튜브1 본인 테스트 댓글 게시·새로고침·본문·수정 메뉴 확인 완료",
+    "commentUrl": "https://www.youtube.com/watch?v=8A3DUIt1gFI&lc=UgyYK4JoKA_iuR9B2zp4AaABAg"
+  },
+  "otherMac": {
+    "status": "pending",
+    "note": "2026-10-15 사용자가 현재 다른 Mac이 없다고 확인. 실제 ZIP을 동일 Mac 새 폴더에서 npm ci·build·키 없는 실행으로 검증했지만 다른 Mac 검증은 미완료."
+  },
+  "openaiLive": {
+    "status": "verified",
+    "note": "2026-10-15 22:28 KST 실제 Responses API로 허용 영상 89자 초안 생성·근거 검사 통과, 검토 전 저장"
+  },
+  "youtubeObservation": {
+    "status": "verified",
+    "note": "2026-10-15 22:25~23:21 KST 실제 55.54분 관측 비교. 전체 56개 중 50개 비교 가능, 조건을 만족하는 상승 후보 3개. 재시작 전 관측 유지 확인.",
+    "evidence": "docs/observations-2026-10-15.json"
+  },
+  "demoVideo": {
+    "status": "verified",
+    "note": "2026-10-17 전체 체크리스트 시연 2분 25.08초, 1280×1000. 실제 앱 재촬영과 10월 15일 게시 원본을 날짜·속도·정지 장면으로 구분. 세 칸·입력·게시·본인 수정 메뉴·비밀값 검사·오픈소스 출처를 최종 추출 프레임으로 직접 검수.",
+    "artifact": "demo/full-checklist-demo.webm"
+  }
+}

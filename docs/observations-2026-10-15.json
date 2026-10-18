@@ -1,0 +1,2130 @@
+{
+  "generatedAt": "2026-10-15T14:21:25.118Z",
+  "source": "YouTube Data API 실제 조회수 / 이 설치의 영속 관측 기록",
+  "totalVideos": 56,
+  "comparableVideos": 50,
+  "candidates": 3,
+  "note": "후보가 0개여도 측정 실패를 뜻하지 않습니다. 55~65분 사이의 실제 관측을 비교하며 중단 기간을 추정하지 않습니다.",
+  "items": [
+    {
+      "videoId": "UuPk2wliLyA",
+      "title": "다음엔 너만 나와! | 큰 개가 달려왔다 2탄 #썰탕곰 #연애 #강아지 #설렘 #썰 #shorts",
+      "status": "watching",
+      "views": 13564,
+      "hourlyGain": 112.34195161734603,
+      "intervalMinutes": 55.5447,
+      "snapshots": [
+        {
+          "videoId": "UuPk2wliLyA",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 13460
+        },
+        {
+          "videoId": "UuPk2wliLyA",
+          "observedAt": "2026-10-15T13:40:32.050Z",
+          "views": 13479
+        },
+        {
+          "videoId": "UuPk2wliLyA",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 13483
+        },
+        {
+          "videoId": "UuPk2wliLyA",
+          "observedAt": "2026-10-15T13:59:57.356Z",
+          "views": 13530
+        },
+        {
+          "videoId": "UuPk2wliLyA",
+          "observedAt": "2026-10-15T14:14:55.241Z",
+          "views": 13559
+        },
+        {
+          "videoId": "UuPk2wliLyA",
+          "observedAt": "2026-10-15T14:21:03.655Z",
+          "views": 13564
+        }
+      ]
+    },
+    {
+      "videoId": "2yX-IhbADPM",
+      "title": "나 놀릴라고 사는 남친구 ^.^.. #연애 #연애심리 #연애유형 #여자친구 #남자친구 #여행 #브이로그",
+      "status": "watching",
+      "views": 949,
+      "hourlyGain": 221.4432035690163,
+      "intervalMinutes": 55.544716666666666,
+      "snapshots": [
+        {
+          "videoId": "2yX-IhbADPM",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 744
+        },
+        {
+          "videoId": "2yX-IhbADPM",
+          "observedAt": "2026-10-15T13:40:32.044Z",
+          "views": 925
+        },
+        {
+          "videoId": "2yX-IhbADPM",
+          "observedAt": "2026-10-15T13:44:54.863Z",
+          "views": 935
+        },
+        {
+          "videoId": "2yX-IhbADPM",
+          "observedAt": "2026-10-15T13:59:57.348Z",
+          "views": 949
+        },
+        {
+          "videoId": "2yX-IhbADPM",
+          "observedAt": "2026-10-15T14:14:55.235Z",
+          "views": 949
+        },
+        {
+          "videoId": "2yX-IhbADPM",
+          "observedAt": "2026-10-15T14:21:03.654Z",
+          "views": 949
+        }
+      ]
+    },
+    {
+      "videoId": "l0dqGcyrFak",
+      "title": "저 연애합니다 😍",
+      "status": "watching",
+      "views": 3765,
+      "hourlyGain": 81.0158548027849,
+      "intervalMinutes": 55.54468333333333,
+      "snapshots": [
+        {
+          "videoId": "l0dqGcyrFak",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 3690
+        },
+        {
+          "videoId": "l0dqGcyrFak",
+          "observedAt": "2026-10-15T13:40:32.049Z",
+          "views": 3708
+        },
+        {
+          "videoId": "l0dqGcyrFak",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 3714
+        },
+        {
+          "videoId": "l0dqGcyrFak",
+          "observedAt": "2026-10-15T13:59:57.355Z",
+          "views": 3735
+        },
+        {
+          "videoId": "l0dqGcyrFak",
+          "observedAt": "2026-10-15T14:14:55.240Z",
+          "views": 3759
+        },
+        {
+          "videoId": "l0dqGcyrFak",
+          "observedAt": "2026-10-15T14:21:03.654Z",
+          "views": 3765
+        }
+      ]
+    },
+    {
+      "videoId": "4QmwJLZqo5A",
+      "title": "연애 조언, 싫은 건 싫다고 말 못하면 노예입니다",
+      "status": "watching",
+      "views": 1306,
+      "hourlyGain": 0,
+      "intervalMinutes": 55.54468333333333,
+      "snapshots": [
+        {
+          "videoId": "4QmwJLZqo5A",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 1306
+        },
+        {
+          "videoId": "4QmwJLZqo5A",
+          "observedAt": "2026-10-15T13:40:32.050Z",
+          "views": 1306
+        },
+        {
+          "videoId": "4QmwJLZqo5A",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 1306
+        },
+        {
+          "videoId": "4QmwJLZqo5A",
+          "observedAt": "2026-10-15T13:59:57.355Z",
+          "views": 1306
+        },
+        {
+          "videoId": "4QmwJLZqo5A",
+          "observedAt": "2026-10-15T14:14:55.241Z",
+          "views": 1306
+        },
+        {
+          "videoId": "4QmwJLZqo5A",
+          "observedAt": "2026-10-15T14:21:03.654Z",
+          "views": 1306
+        }
+      ]
+    },
+    {
+      "videoId": "ub0oHsaQJ98",
+      "title": "311 공개구혼 💕 5060연애 황혼연애 조건 좋은 남자! 열심히 살았고 믿고오셔도 됩니다",
+      "status": "watching",
+      "views": 2287,
+      "hourlyGain": 7.561479781593258,
+      "intervalMinutes": 55.54468333333333,
+      "snapshots": [
+        {
+          "videoId": "ub0oHsaQJ98",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 2280
+        },
+        {
+          "videoId": "ub0oHsaQJ98",
+          "observedAt": "2026-10-15T13:40:32.050Z",
+          "views": 2287
+        },
+        {
+          "videoId": "ub0oHsaQJ98",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 2287
+        },
+        {
+          "videoId": "ub0oHsaQJ98",
+          "observedAt": "2026-10-15T13:59:57.356Z",
+          "views": 2287
+        },
+        {
+          "videoId": "ub0oHsaQJ98",
+          "observedAt": "2026-10-15T14:14:55.241Z",
+          "views": 2287
+        },
+        {
+          "videoId": "ub0oHsaQJ98",
+          "observedAt": "2026-10-15T14:21:03.654Z",
+          "views": 2287
+        }
+      ]
+    },
+    {
+      "videoId": "Ykb6gUdUKX8",
+      "title": "비밀연애 중인 교수가 전공의들 앞에서 차 문 열어 주면 생기는 일 #슬의생",
+      "status": "watching",
+      "views": 4962,
+      "hourlyGain": 30.24591005082393,
+      "intervalMinutes": 55.5447,
+      "snapshots": [
+        {
+          "videoId": "Ykb6gUdUKX8",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 4934
+        },
+        {
+          "videoId": "Ykb6gUdUKX8",
+          "observedAt": "2026-10-15T13:40:32.050Z",
+          "views": 4934
+        },
+        {
+          "videoId": "Ykb6gUdUKX8",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 4942
+        },
+        {
+          "videoId": "Ykb6gUdUKX8",
+          "observedAt": "2026-10-15T13:59:57.356Z",
+          "views": 4942
+        },
+        {
+          "videoId": "Ykb6gUdUKX8",
+          "observedAt": "2026-10-15T14:14:55.241Z",
+          "views": 4960
+        },
+        {
+          "videoId": "Ykb6gUdUKX8",
+          "observedAt": "2026-10-15T14:21:03.655Z",
+          "views": 4962
+        }
+      ]
+    },
+    {
+      "videoId": "f66_SGGa1b4",
+      "title": "서인영이 일본남자랑 3년 연애한 비법 최초공개",
+      "status": "watching",
+      "views": 22032,
+      "hourlyGain": 22576.458850622996,
+      "intervalMinutes": 55.544583333333335,
+      "snapshots": [
+        {
+          "videoId": "f66_SGGa1b4",
+          "observedAt": "2026-10-15T13:25:30.970Z",
+          "views": 1132
+        },
+        {
+          "videoId": "f66_SGGa1b4",
+          "observedAt": "2026-10-15T13:40:32.043Z",
+          "views": 6900
+        },
+        {
+          "videoId": "f66_SGGa1b4",
+          "observedAt": "2026-10-15T13:44:54.863Z",
+          "views": 9215
+        },
+        {
+          "videoId": "f66_SGGa1b4",
+          "observedAt": "2026-10-15T13:59:57.347Z",
+          "views": 16242
+        },
+        {
+          "videoId": "f66_SGGa1b4",
+          "observedAt": "2026-10-15T14:14:55.234Z",
+          "views": 18867
+        },
+        {
+          "videoId": "f66_SGGa1b4",
+          "observedAt": "2026-10-15T14:21:03.645Z",
+          "views": 22032
+        }
+      ]
+    },
+    {
+      "videoId": "CEYUEus8w3g",
+      "title": "반전매력 연애의조건 챌린지 댓글모음ㅋㅋㅋㅋㅋㅋ",
+      "status": "watching",
+      "views": 12253,
+      "hourlyGain": 1673.250466967226,
+      "intervalMinutes": 55.544583333333335,
+      "snapshots": [
+        {
+          "videoId": "CEYUEus8w3g",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 10704
+        },
+        {
+          "videoId": "CEYUEus8w3g",
+          "observedAt": "2026-10-15T13:40:32.044Z",
+          "views": 11209
+        },
+        {
+          "videoId": "CEYUEus8w3g",
+          "observedAt": "2026-10-15T13:44:54.863Z",
+          "views": 11340
+        },
+        {
+          "videoId": "CEYUEus8w3g",
+          "observedAt": "2026-10-15T13:59:57.349Z",
+          "views": 11786
+        },
+        {
+          "videoId": "CEYUEus8w3g",
+          "observedAt": "2026-10-15T14:14:55.235Z",
+          "views": 12147
+        },
+        {
+          "videoId": "CEYUEus8w3g",
+          "observedAt": "2026-10-15T14:21:03.646Z",
+          "views": 12253
+        }
+      ]
+    },
+    {
+      "videoId": "81bLsv4-SZg",
+      "title": "남자친구의 제안에 여자친구가 보인 반응🤣",
+      "status": "watching",
+      "views": 5558,
+      "hourlyGain": 746.4271954429413,
+      "intervalMinutes": 55.5446,
+      "snapshots": [
+        {
+          "videoId": "81bLsv4-SZg",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 4867
+        },
+        {
+          "videoId": "81bLsv4-SZg",
+          "observedAt": "2026-10-15T13:40:32.044Z",
+          "views": 5101
+        },
+        {
+          "videoId": "81bLsv4-SZg",
+          "observedAt": "2026-10-15T13:44:54.863Z",
+          "views": 5157
+        },
+        {
+          "videoId": "81bLsv4-SZg",
+          "observedAt": "2026-10-15T13:59:57.349Z",
+          "views": 5339
+        },
+        {
+          "videoId": "81bLsv4-SZg",
+          "observedAt": "2026-10-15T14:14:55.235Z",
+          "views": 5488
+        },
+        {
+          "videoId": "81bLsv4-SZg",
+          "observedAt": "2026-10-15T14:21:03.647Z",
+          "views": 5558
+        }
+      ]
+    },
+    {
+      "videoId": "p57pIr4ALzs",
+      "title": "남자를 도망치게 만드는 실수 2가지 #연애 #연애고민 #남자 #결혼 #이별고민 #재회 #집착",
+      "status": "watching",
+      "views": 772,
+      "hourlyGain": 230.08537283552315,
+      "intervalMinutes": 55.5446,
+      "snapshots": [
+        {
+          "videoId": "p57pIr4ALzs",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 559
+        },
+        {
+          "videoId": "p57pIr4ALzs",
+          "observedAt": "2026-10-15T13:40:32.045Z",
+          "views": 642
+        },
+        {
+          "videoId": "p57pIr4ALzs",
+          "observedAt": "2026-10-15T13:44:54.863Z",
+          "views": 661
+        },
+        {
+          "videoId": "p57pIr4ALzs",
+          "observedAt": "2026-10-15T13:59:57.349Z",
+          "views": 748
+        },
+        {
+          "videoId": "p57pIr4ALzs",
+          "observedAt": "2026-10-15T14:14:55.235Z",
+          "views": 767
+        },
+        {
+          "videoId": "p57pIr4ALzs",
+          "observedAt": "2026-10-15T14:21:03.647Z",
+          "views": 772
+        }
+      ]
+    },
+    {
+      "videoId": "qUmtjeR2NM0",
+      "title": "도대체 얼마나 만났길래 잘해,,,? #전여친 #연애 #운동",
+      "status": "watching",
+      "views": 499,
+      "hourlyGain": 114.50257990875801,
+      "intervalMinutes": 55.5446,
+      "snapshots": [
+        {
+          "videoId": "qUmtjeR2NM0",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 393
+        },
+        {
+          "videoId": "qUmtjeR2NM0",
+          "observedAt": "2026-10-15T13:40:32.045Z",
+          "views": 415
+        },
+        {
+          "videoId": "qUmtjeR2NM0",
+          "observedAt": "2026-10-15T13:44:54.863Z",
+          "views": 427
+        },
+        {
+          "videoId": "qUmtjeR2NM0",
+          "observedAt": "2026-10-15T13:59:57.349Z",
+          "views": 494
+        },
+        {
+          "videoId": "qUmtjeR2NM0",
+          "observedAt": "2026-10-15T14:14:55.236Z",
+          "views": 499
+        },
+        {
+          "videoId": "qUmtjeR2NM0",
+          "observedAt": "2026-10-15T14:21:03.647Z",
+          "views": 499
+        }
+      ]
+    },
+    {
+      "videoId": "99wBFk8BxaM",
+      "title": "청소는 청소기가, 빨래는 세탁기가 하죠 ^^ #shorts #연애전쟁",
+      "status": "watching",
+      "views": 974,
+      "hourlyGain": 203.0800473853444,
+      "intervalMinutes": 55.5446,
+      "snapshots": [
+        {
+          "videoId": "99wBFk8BxaM",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 786
+        },
+        {
+          "videoId": "99wBFk8BxaM",
+          "observedAt": "2026-10-15T13:40:32.045Z",
+          "views": 787
+        },
+        {
+          "videoId": "99wBFk8BxaM",
+          "observedAt": "2026-10-15T13:44:54.864Z",
+          "views": 795
+        },
+        {
+          "videoId": "99wBFk8BxaM",
+          "observedAt": "2026-10-15T13:59:57.349Z",
+          "views": 853
+        },
+        {
+          "videoId": "99wBFk8BxaM",
+          "observedAt": "2026-10-15T14:14:55.236Z",
+          "views": 948
+        },
+        {
+          "videoId": "99wBFk8BxaM",
+          "observedAt": "2026-10-15T14:21:03.647Z",
+          "views": 974
+        }
+      ]
+    },
+    {
+      "videoId": "L_KVH8X-zgc",
+      "title": "공시생 남친 뒷바라지하다 폭발한 여자",
+      "status": "candidate",
+      "views": 2259,
+      "hourlyGain": 504.4594794093395,
+      "intervalMinutes": 55.5446,
+      "snapshots": [
+        {
+          "videoId": "L_KVH8X-zgc",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 1792
+        },
+        {
+          "videoId": "L_KVH8X-zgc",
+          "observedAt": "2026-10-15T13:40:32.045Z",
+          "views": 1940
+        },
+        {
+          "videoId": "L_KVH8X-zgc",
+          "observedAt": "2026-10-15T13:44:54.864Z",
+          "views": 1934
+        },
+        {
+          "videoId": "L_KVH8X-zgc",
+          "observedAt": "2026-10-15T13:59:57.349Z",
+          "views": 2153
+        },
+        {
+          "videoId": "L_KVH8X-zgc",
+          "observedAt": "2026-10-15T14:14:55.236Z",
+          "views": 2238
+        },
+        {
+          "videoId": "L_KVH8X-zgc",
+          "observedAt": "2026-10-15T14:21:03.647Z",
+          "views": 2259
+        }
+      ]
+    },
+    {
+      "videoId": "v3_Ozr-txEk",
+      "title": "더 이상 이상형 내려놓지 마세요 #결혼정보회사 #결정사 #연애심리 #결혼심리 #모두의지인",
+      "status": "candidate",
+      "views": 1796,
+      "hourlyGain": 413.7215858967388,
+      "intervalMinutes": 55.5446,
+      "snapshots": [
+        {
+          "videoId": "v3_Ozr-txEk",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 1413
+        },
+        {
+          "videoId": "v3_Ozr-txEk",
+          "observedAt": "2026-10-15T13:40:32.045Z",
+          "views": 1527
+        },
+        {
+          "videoId": "v3_Ozr-txEk",
+          "observedAt": "2026-10-15T13:44:54.864Z",
+          "views": 1566
+        },
+        {
+          "videoId": "v3_Ozr-txEk",
+          "observedAt": "2026-10-15T13:59:57.350Z",
+          "views": 1706
+        },
+        {
+          "videoId": "v3_Ozr-txEk",
+          "observedAt": "2026-10-15T14:14:55.236Z",
+          "views": 1772
+        },
+        {
+          "videoId": "v3_Ozr-txEk",
+          "observedAt": "2026-10-15T14:21:03.647Z",
+          "views": 1796
+        }
+      ]
+    },
+    {
+      "videoId": "xoCxVuk5r8o",
+      "title": "\"연애 중이어도 예쁜 사람 볼까?\" 실험 결과 드러난 충격적 사실 / KNN",
+      "status": "waiting",
+      "views": 2059,
+      "hourlyGain": null,
+      "intervalMinutes": null,
+      "snapshots": [
+        {
+          "videoId": "xoCxVuk5r8o",
+          "observedAt": "2026-10-15T13:44:54.864Z",
+          "views": 1792
+        },
+        {
+          "videoId": "xoCxVuk5r8o",
+          "observedAt": "2026-10-15T13:59:57.350Z",
+          "views": 1929
+        },
+        {
+          "videoId": "xoCxVuk5r8o",
+          "observedAt": "2026-10-15T14:14:55.236Z",
+          "views": 2038
+        },
+        {
+          "videoId": "xoCxVuk5r8o",
+          "observedAt": "2026-10-15T14:21:03.648Z",
+          "views": 2059
+        }
+      ]
+    },
+    {
+      "videoId": "sqfLMej3awM",
+      "title": "돌돌싱에 꽂힌 22기 현숙, 막말 퍼레이드 #shorts #연애전쟁",
+      "status": "watching",
+      "views": 1246,
+      "hourlyGain": 129.62552326553097,
+      "intervalMinutes": 55.54461666666667,
+      "snapshots": [
+        {
+          "videoId": "sqfLMej3awM",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 1126
+        },
+        {
+          "videoId": "sqfLMej3awM",
+          "observedAt": "2026-10-15T13:40:32.045Z",
+          "views": 1165
+        },
+        {
+          "videoId": "sqfLMej3awM",
+          "observedAt": "2026-10-15T13:44:54.864Z",
+          "views": 1170
+        },
+        {
+          "videoId": "sqfLMej3awM",
+          "observedAt": "2026-10-15T13:59:57.350Z",
+          "views": 1213
+        },
+        {
+          "videoId": "sqfLMej3awM",
+          "observedAt": "2026-10-15T14:14:55.236Z",
+          "views": 1238
+        },
+        {
+          "videoId": "sqfLMej3awM",
+          "observedAt": "2026-10-15T14:21:03.648Z",
+          "views": 1246
+        }
+      ]
+    },
+    {
+      "videoId": "_Fsm0U2aRXo",
+      "title": "연애 초기 콩짝지의 무서움",
+      "status": "watching",
+      "views": 10978,
+      "hourlyGain": 3219.033827760686,
+      "intervalMinutes": 55.54461666666667,
+      "snapshots": [
+        {
+          "videoId": "_Fsm0U2aRXo",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 7998
+        },
+        {
+          "videoId": "_Fsm0U2aRXo",
+          "observedAt": "2026-10-15T13:40:32.045Z",
+          "views": 8822
+        },
+        {
+          "videoId": "_Fsm0U2aRXo",
+          "observedAt": "2026-10-15T13:44:54.864Z",
+          "views": 9000
+        },
+        {
+          "videoId": "_Fsm0U2aRXo",
+          "observedAt": "2026-10-15T13:59:57.350Z",
+          "views": 10099
+        },
+        {
+          "videoId": "_Fsm0U2aRXo",
+          "observedAt": "2026-10-15T14:14:55.236Z",
+          "views": 10739
+        },
+        {
+          "videoId": "_Fsm0U2aRXo",
+          "observedAt": "2026-10-15T14:21:03.648Z",
+          "views": 10978
+        }
+      ]
+    },
+    {
+      "videoId": "RlvIevuUYRk",
+      "title": "사귀면 퇴출인데… 나보람이 극단에서 몰래 한 연애 [짠한형]",
+      "status": "watching",
+      "views": 1189,
+      "hourlyGain": 27.00531734698562,
+      "intervalMinutes": 55.54461666666667,
+      "snapshots": [
+        {
+          "videoId": "RlvIevuUYRk",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 1164
+        },
+        {
+          "videoId": "RlvIevuUYRk",
+          "observedAt": "2026-10-15T13:40:32.045Z",
+          "views": 1184
+        },
+        {
+          "videoId": "RlvIevuUYRk",
+          "observedAt": "2026-10-15T13:44:54.864Z",
+          "views": 1184
+        },
+        {
+          "videoId": "RlvIevuUYRk",
+          "observedAt": "2026-10-15T13:59:57.350Z",
+          "views": 1187
+        },
+        {
+          "videoId": "RlvIevuUYRk",
+          "observedAt": "2026-10-15T14:14:55.236Z",
+          "views": 1189
+        },
+        {
+          "videoId": "RlvIevuUYRk",
+          "observedAt": "2026-10-15T14:21:03.648Z",
+          "views": 1189
+        }
+      ]
+    },
+    {
+      "videoId": "nWIANkfj0RY",
+      "title": "솔비♥이규한 결혼 연애 예능의 반전 결말",
+      "status": "watching",
+      "views": 12003,
+      "hourlyGain": 3362.7021160466493,
+      "intervalMinutes": 55.54461666666667,
+      "snapshots": [
+        {
+          "videoId": "nWIANkfj0RY",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 8890
+        },
+        {
+          "videoId": "nWIANkfj0RY",
+          "observedAt": "2026-10-15T13:40:32.046Z",
+          "views": 9439
+        },
+        {
+          "videoId": "nWIANkfj0RY",
+          "observedAt": "2026-10-15T13:44:54.865Z",
+          "views": 9628
+        },
+        {
+          "videoId": "nWIANkfj0RY",
+          "observedAt": "2026-10-15T13:59:57.350Z",
+          "views": 10656
+        },
+        {
+          "videoId": "nWIANkfj0RY",
+          "observedAt": "2026-10-15T14:14:55.236Z",
+          "views": 11882
+        },
+        {
+          "videoId": "nWIANkfj0RY",
+          "observedAt": "2026-10-15T14:21:03.648Z",
+          "views": 12003
+        }
+      ]
+    },
+    {
+      "videoId": "XZ5_KXc_Gk4",
+      "title": "장한별은 여자 연예인 대시도 거절?! 트롯 스타들의 연애·이상형 솔직 고백",
+      "status": "watching",
+      "views": 10848,
+      "hourlyGain": 1468.0090509821382,
+      "intervalMinutes": 55.54461666666667,
+      "snapshots": [
+        {
+          "videoId": "XZ5_KXc_Gk4",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 9489
+        },
+        {
+          "videoId": "XZ5_KXc_Gk4",
+          "observedAt": "2026-10-15T13:40:32.046Z",
+          "views": 9860
+        },
+        {
+          "videoId": "XZ5_KXc_Gk4",
+          "observedAt": "2026-10-15T13:44:54.865Z",
+          "views": 9932
+        },
+        {
+          "videoId": "XZ5_KXc_Gk4",
+          "observedAt": "2026-10-15T13:59:57.350Z",
+          "views": 10428
+        },
+        {
+          "videoId": "XZ5_KXc_Gk4",
+          "observedAt": "2026-10-15T14:14:55.237Z",
+          "views": 10773
+        },
+        {
+          "videoId": "XZ5_KXc_Gk4",
+          "observedAt": "2026-10-15T14:21:03.648Z",
+          "views": 10848
+        }
+      ]
+    },
+    {
+      "videoId": "PiZspLD4nV4",
+      "title": "부모님 몰래 하는 연애 특",
+      "status": "watching",
+      "views": 213504,
+      "hourlyGain": 67309.13316832084,
+      "intervalMinutes": 55.54461666666667,
+      "snapshots": [
+        {
+          "videoId": "PiZspLD4nV4",
+          "observedAt": "2026-10-15T13:25:30.971Z",
+          "views": 151193
+        },
+        {
+          "videoId": "PiZspLD4nV4",
+          "observedAt": "2026-10-15T13:40:32.046Z",
+          "views": 168029
+        },
+        {
+          "videoId": "PiZspLD4nV4",
+          "observedAt": "2026-10-15T13:44:54.865Z",
+          "views": 171092
+        },
+        {
+          "videoId": "PiZspLD4nV4",
+          "observedAt": "2026-10-15T13:59:57.351Z",
+          "views": 196020
+        },
+        {
+          "videoId": "PiZspLD4nV4",
+          "observedAt": "2026-10-15T14:14:55.237Z",
+          "views": 210370
+        },
+        {
+          "videoId": "PiZspLD4nV4",
+          "observedAt": "2026-10-15T14:21:03.648Z",
+          "views": 213504
+        }
+      ]
+    },
+    {
+      "videoId": "60Vj30Wtfco",
+      "title": "솔로탈출 하고싶다면? 프로필 링크 클릭 😉",
+      "status": "watching",
+      "views": 1526,
+      "hourlyGain": 83.17637742871571,
+      "intervalMinutes": 55.54461666666667,
+      "snapshots": [
+        {
+          "videoId": "60Vj30Wtfco",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 1449
+        },
+        {
+          "videoId": "60Vj30Wtfco",
+          "observedAt": "2026-10-15T13:40:32.046Z",
+          "views": 1475
+        },
+        {
+          "videoId": "60Vj30Wtfco",
+          "observedAt": "2026-10-15T13:44:54.865Z",
+          "views": 1479
+        },
+        {
+          "videoId": "60Vj30Wtfco",
+          "observedAt": "2026-10-15T13:59:57.351Z",
+          "views": 1500
+        },
+        {
+          "videoId": "60Vj30Wtfco",
+          "observedAt": "2026-10-15T14:14:55.237Z",
+          "views": 1524
+        },
+        {
+          "videoId": "60Vj30Wtfco",
+          "observedAt": "2026-10-15T14:21:03.649Z",
+          "views": 1526
+        }
+      ]
+    },
+    {
+      "videoId": "QwvV18ZnHuU",
+      "title": "이제는 닿을 수 없는 너를 그리며 | 슬픈 남의 연애 썰",
+      "status": "watching",
+      "views": 16624,
+      "hourlyGain": 4062.6799416805165,
+      "intervalMinutes": 55.54461666666667,
+      "snapshots": [
+        {
+          "videoId": "QwvV18ZnHuU",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 12863
+        },
+        {
+          "videoId": "QwvV18ZnHuU",
+          "observedAt": "2026-10-15T13:40:32.046Z",
+          "views": 13971
+        },
+        {
+          "videoId": "QwvV18ZnHuU",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 14026
+        },
+        {
+          "videoId": "QwvV18ZnHuU",
+          "observedAt": "2026-10-15T13:59:57.351Z",
+          "views": 15129
+        },
+        {
+          "videoId": "QwvV18ZnHuU",
+          "observedAt": "2026-10-15T14:14:55.237Z",
+          "views": 16331
+        },
+        {
+          "videoId": "QwvV18ZnHuU",
+          "observedAt": "2026-10-15T14:21:03.649Z",
+          "views": 16624
+        }
+      ]
+    },
+    {
+      "videoId": "mYDOQYnqzMY",
+      "title": "남자들의 비밀 공개합니다 #쟌쟌지한#축구#연애#공감#남자친구",
+      "status": "watching",
+      "views": 1019,
+      "hourlyGain": 4.320850775517699,
+      "intervalMinutes": 55.54461666666667,
+      "snapshots": [
+        {
+          "videoId": "mYDOQYnqzMY",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 1015
+        },
+        {
+          "videoId": "mYDOQYnqzMY",
+          "observedAt": "2026-10-15T13:40:32.046Z",
+          "views": 1019
+        },
+        {
+          "videoId": "mYDOQYnqzMY",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 1019
+        },
+        {
+          "videoId": "mYDOQYnqzMY",
+          "observedAt": "2026-10-15T13:59:57.351Z",
+          "views": 1019
+        },
+        {
+          "videoId": "mYDOQYnqzMY",
+          "observedAt": "2026-10-15T14:14:55.237Z",
+          "views": 1019
+        },
+        {
+          "videoId": "mYDOQYnqzMY",
+          "observedAt": "2026-10-15T14:21:03.649Z",
+          "views": 1019
+        }
+      ]
+    },
+    {
+      "videoId": "0VPNvBlD5kk",
+      "title": "남자가 더 잘하려고 노력하게 되는 여자",
+      "status": "waiting",
+      "views": 3884,
+      "hourlyGain": null,
+      "intervalMinutes": null,
+      "snapshots": [
+        {
+          "videoId": "0VPNvBlD5kk",
+          "observedAt": "2026-10-15T14:21:03.649Z",
+          "views": 3884
+        }
+      ]
+    },
+    {
+      "videoId": "omof4ztZC4Y",
+      "title": "남자4명한테 동시에 번호 따인 썰 ㄷㄷ #shorts  #연애",
+      "status": "candidate",
+      "views": 2280,
+      "hourlyGain": 172.83397916030293,
+      "intervalMinutes": 55.54463333333333,
+      "snapshots": [
+        {
+          "videoId": "omof4ztZC4Y",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 2120
+        },
+        {
+          "videoId": "omof4ztZC4Y",
+          "observedAt": "2026-10-15T13:40:32.046Z",
+          "views": 2165
+        },
+        {
+          "videoId": "omof4ztZC4Y",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 2184
+        },
+        {
+          "videoId": "omof4ztZC4Y",
+          "observedAt": "2026-10-15T13:59:57.351Z",
+          "views": 2227
+        },
+        {
+          "videoId": "omof4ztZC4Y",
+          "observedAt": "2026-10-15T14:14:55.237Z",
+          "views": 2275
+        },
+        {
+          "videoId": "omof4ztZC4Y",
+          "observedAt": "2026-10-15T14:21:03.650Z",
+          "views": 2280
+        }
+      ]
+    },
+    {
+      "videoId": "BDNl7nrS-0U",
+      "title": "남친 잘못? 여친 탓?…연애 한정 'AI 판사' 앱 나왔다",
+      "status": "watching",
+      "views": 320,
+      "hourlyGain": 30.24594635305301,
+      "intervalMinutes": 55.54463333333333,
+      "snapshots": [
+        {
+          "videoId": "BDNl7nrS-0U",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 292
+        },
+        {
+          "videoId": "BDNl7nrS-0U",
+          "observedAt": "2026-10-15T13:40:32.046Z",
+          "views": 299
+        },
+        {
+          "videoId": "BDNl7nrS-0U",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 300
+        },
+        {
+          "videoId": "BDNl7nrS-0U",
+          "observedAt": "2026-10-15T13:59:57.351Z",
+          "views": 314
+        },
+        {
+          "videoId": "BDNl7nrS-0U",
+          "observedAt": "2026-10-15T14:14:55.237Z",
+          "views": 319
+        },
+        {
+          "videoId": "BDNl7nrS-0U",
+          "observedAt": "2026-10-15T14:21:03.650Z",
+          "views": 320
+        }
+      ]
+    },
+    {
+      "videoId": "2IGiFj_wqfk",
+      "title": "여친이 카톡을 보여달라고 한다",
+      "status": "watching",
+      "views": 1484,
+      "hourlyGain": 43.20849479007573,
+      "intervalMinutes": 55.54463333333333,
+      "snapshots": [
+        {
+          "videoId": "2IGiFj_wqfk",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 1444
+        },
+        {
+          "videoId": "2IGiFj_wqfk",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 1453
+        },
+        {
+          "videoId": "2IGiFj_wqfk",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 1457
+        },
+        {
+          "videoId": "2IGiFj_wqfk",
+          "observedAt": "2026-10-15T13:59:57.351Z",
+          "views": 1469
+        },
+        {
+          "videoId": "2IGiFj_wqfk",
+          "observedAt": "2026-10-15T14:14:55.238Z",
+          "views": 1484
+        },
+        {
+          "videoId": "2IGiFj_wqfk",
+          "observedAt": "2026-10-15T14:21:03.650Z",
+          "views": 1484
+        }
+      ]
+    },
+    {
+      "videoId": "QRGdy64WdXU",
+      "title": "[FULL] '나의 X이야기: 두뎅이들의 연애 흑역사🔥' (with 나비, 김인석) | #MBCRADIO #두시의데이트안영미입니다 #나비 #김인석 | MBC 261015 방송",
+      "status": "watching",
+      "views": 2513,
+      "hourlyGain": 36.727220571564374,
+      "intervalMinutes": 55.54463333333333,
+      "snapshots": [
+        {
+          "videoId": "QRGdy64WdXU",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 2479
+        },
+        {
+          "videoId": "QRGdy64WdXU",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 2483
+        },
+        {
+          "videoId": "QRGdy64WdXU",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 2486
+        },
+        {
+          "videoId": "QRGdy64WdXU",
+          "observedAt": "2026-10-15T13:59:57.352Z",
+          "views": 2498
+        },
+        {
+          "videoId": "QRGdy64WdXU",
+          "observedAt": "2026-10-15T14:14:55.238Z",
+          "views": 2513
+        },
+        {
+          "videoId": "QRGdy64WdXU",
+          "observedAt": "2026-10-15T14:21:03.650Z",
+          "views": 2513
+        }
+      ]
+    },
+    {
+      "videoId": "vWNlyoPz7fs",
+      "title": "🇰🇷 외국인들이 한국인과 연애하다가 충격받는 문화 TOP 5! 😱 | 5 Surprising Korean Dating Traditions #shorts",
+      "status": "watching",
+      "views": 1102,
+      "hourlyGain": 7.561486588263253,
+      "intervalMinutes": 55.54463333333333,
+      "snapshots": [
+        {
+          "videoId": "vWNlyoPz7fs",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 1095
+        },
+        {
+          "videoId": "vWNlyoPz7fs",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 1102
+        },
+        {
+          "videoId": "vWNlyoPz7fs",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 1102
+        },
+        {
+          "videoId": "vWNlyoPz7fs",
+          "observedAt": "2026-10-15T13:59:57.352Z",
+          "views": 1102
+        },
+        {
+          "videoId": "vWNlyoPz7fs",
+          "observedAt": "2026-10-15T14:14:55.238Z",
+          "views": 1102
+        },
+        {
+          "videoId": "vWNlyoPz7fs",
+          "observedAt": "2026-10-15T14:21:03.650Z",
+          "views": 1102
+        }
+      ]
+    },
+    {
+      "videoId": "zDfMqZtFZLg",
+      "title": "[#연애박사] \"얼마나 아팠을까…\" 추영우의 아픔에 눈물 쏟은 김소현, 눈물로 마음 전한 기습 키스💗 #연애박사 4회 #클립",
+      "status": "waiting",
+      "views": 4260,
+      "hourlyGain": null,
+      "intervalMinutes": null,
+      "snapshots": [
+        {
+          "videoId": "zDfMqZtFZLg",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 3656
+        },
+        {
+          "videoId": "zDfMqZtFZLg",
+          "observedAt": "2026-10-15T13:59:57.352Z",
+          "views": 4008
+        },
+        {
+          "videoId": "zDfMqZtFZLg",
+          "observedAt": "2026-10-15T14:14:55.238Z",
+          "views": 4215
+        },
+        {
+          "videoId": "zDfMqZtFZLg",
+          "observedAt": "2026-10-15T14:21:03.650Z",
+          "views": 4260
+        }
+      ]
+    },
+    {
+      "videoId": "GlukW2vDE3E",
+      "title": "【타로연애운】연말까지 생길 나의 연애스캔들💕관계흐름,특징,속마음/솔로연애운,새로운인연,썸,새로운연애love fortune tarot",
+      "status": "watching",
+      "views": 31159,
+      "hourlyGain": 297.05840168177065,
+      "intervalMinutes": 55.54463333333333,
+      "snapshots": [
+        {
+          "videoId": "GlukW2vDE3E",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 30884
+        },
+        {
+          "videoId": "GlukW2vDE3E",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 30958
+        },
+        {
+          "videoId": "GlukW2vDE3E",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 30978
+        },
+        {
+          "videoId": "GlukW2vDE3E",
+          "observedAt": "2026-10-15T13:59:57.352Z",
+          "views": 31088
+        },
+        {
+          "videoId": "GlukW2vDE3E",
+          "observedAt": "2026-10-15T14:14:55.238Z",
+          "views": 31150
+        },
+        {
+          "videoId": "GlukW2vDE3E",
+          "observedAt": "2026-10-15T14:21:03.650Z",
+          "views": 31159
+        }
+      ]
+    },
+    {
+      "videoId": "w-g2FxwiXDI",
+      "title": "\"이젠 이숙캠이야\" 리뷰하러 와서 20분 동안 싸움 | 연애전쟁 AFTER",
+      "status": "watching",
+      "views": 21950,
+      "hourlyGain": 120.9837491099503,
+      "intervalMinutes": 55.54465,
+      "snapshots": [
+        {
+          "videoId": "w-g2FxwiXDI",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 21838
+        },
+        {
+          "videoId": "w-g2FxwiXDI",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 21864
+        },
+        {
+          "videoId": "w-g2FxwiXDI",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 21874
+        },
+        {
+          "videoId": "w-g2FxwiXDI",
+          "observedAt": "2026-10-15T13:59:57.352Z",
+          "views": 21918
+        },
+        {
+          "videoId": "w-g2FxwiXDI",
+          "observedAt": "2026-10-15T14:14:55.238Z",
+          "views": 21947
+        },
+        {
+          "videoId": "w-g2FxwiXDI",
+          "observedAt": "2026-10-15T14:21:03.651Z",
+          "views": 21950
+        }
+      ]
+    },
+    {
+      "videoId": "N0RyQJG9vdI",
+      "title": "연애 잘하는 여자는 절대 안 하고, 못하는 여자만 하는 '이 생각' (외모도 성격도 아닙니다)",
+      "status": "watching",
+      "views": 9060,
+      "hourlyGain": 98.29929615183461,
+      "intervalMinutes": 55.54465,
+      "snapshots": [
+        {
+          "videoId": "N0RyQJG9vdI",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 8969
+        },
+        {
+          "videoId": "N0RyQJG9vdI",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 8984
+        },
+        {
+          "videoId": "N0RyQJG9vdI",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 8990
+        },
+        {
+          "videoId": "N0RyQJG9vdI",
+          "observedAt": "2026-10-15T13:59:57.356Z",
+          "views": 9012
+        },
+        {
+          "videoId": "N0RyQJG9vdI",
+          "observedAt": "2026-10-15T14:14:55.241Z",
+          "views": 9054
+        },
+        {
+          "videoId": "N0RyQJG9vdI",
+          "observedAt": "2026-10-15T14:21:03.651Z",
+          "views": 9060
+        }
+      ]
+    },
+    {
+      "videoId": "K4H0BG_lBvc",
+      "title": "《연애박사 3~4화 리뷰》사귀기도 전에 2번째 키스😍 눈물 키스의 의미 #연애박사 #추영우 #김소현",
+      "status": "waiting",
+      "views": 9087,
+      "hourlyGain": null,
+      "intervalMinutes": null,
+      "snapshots": [
+        {
+          "videoId": "K4H0BG_lBvc",
+          "observedAt": "2026-10-15T14:21:03.651Z",
+          "views": 9087
+        }
+      ]
+    },
+    {
+      "videoId": "Rj6X8DjYKbM",
+      "title": "공중파는 불가능한...선배 원룸에 쳐들어가서 옷부터 벗고 \"보라고\"하는 직진녀 김소현 VS 유혹 따위에 흔들리지 않겠다는 슈퍼 방패 선배 추영우의 리얼한 연애 ≪연애박사≫ 3~4화",
+      "status": "waiting",
+      "views": 239375,
+      "hourlyGain": null,
+      "intervalMinutes": null,
+      "snapshots": [
+        {
+          "videoId": "Rj6X8DjYKbM",
+          "observedAt": "2026-10-15T14:21:03.651Z",
+          "views": 239375
+        }
+      ]
+    },
+    {
+      "videoId": "DDkridA05g8",
+      "title": "첫 연애 할 때의 설레임  #스케치코미디",
+      "status": "watching",
+      "views": 16904,
+      "hourlyGain": 1839.6011136986192,
+      "intervalMinutes": 55.54465,
+      "snapshots": [
+        {
+          "videoId": "DDkridA05g8",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 15201
+        },
+        {
+          "videoId": "DDkridA05g8",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 15620
+        },
+        {
+          "videoId": "DDkridA05g8",
+          "observedAt": "2026-10-15T13:44:54.866Z",
+          "views": 15713
+        },
+        {
+          "videoId": "DDkridA05g8",
+          "observedAt": "2026-10-15T13:59:57.352Z",
+          "views": 16431
+        },
+        {
+          "videoId": "DDkridA05g8",
+          "observedAt": "2026-10-15T14:14:55.238Z",
+          "views": 16825
+        },
+        {
+          "videoId": "DDkridA05g8",
+          "observedAt": "2026-10-15T14:21:03.651Z",
+          "views": 16904
+        }
+      ]
+    },
+    {
+      "videoId": "2Twxta3JZsA",
+      "title": "연애 고수는 절대 안 하는 행동 3가지 #shorts",
+      "status": "watching",
+      "views": 1173,
+      "hourlyGain": 0,
+      "intervalMinutes": 55.54465,
+      "snapshots": [
+        {
+          "videoId": "2Twxta3JZsA",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 1173
+        },
+        {
+          "videoId": "2Twxta3JZsA",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 1173
+        },
+        {
+          "videoId": "2Twxta3JZsA",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 1173
+        },
+        {
+          "videoId": "2Twxta3JZsA",
+          "observedAt": "2026-10-15T13:59:57.352Z",
+          "views": 1173
+        },
+        {
+          "videoId": "2Twxta3JZsA",
+          "observedAt": "2026-10-15T14:14:55.239Z",
+          "views": 1173
+        },
+        {
+          "videoId": "2Twxta3JZsA",
+          "observedAt": "2026-10-15T14:21:03.651Z",
+          "views": 1173
+        }
+      ]
+    },
+    {
+      "videoId": "adIPdJIweXA",
+      "title": "사랑 유효기간 3년? 진짜 위기는 따로 있다 #사랑 #연애",
+      "status": "watching",
+      "views": 1256,
+      "hourlyGain": 0,
+      "intervalMinutes": 55.54465,
+      "snapshots": [
+        {
+          "videoId": "adIPdJIweXA",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 1256
+        },
+        {
+          "videoId": "adIPdJIweXA",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 1256
+        },
+        {
+          "videoId": "adIPdJIweXA",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 1256
+        },
+        {
+          "videoId": "adIPdJIweXA",
+          "observedAt": "2026-10-15T13:59:57.352Z",
+          "views": 1256
+        },
+        {
+          "videoId": "adIPdJIweXA",
+          "observedAt": "2026-10-15T14:14:55.239Z",
+          "views": 1256
+        },
+        {
+          "videoId": "adIPdJIweXA",
+          "observedAt": "2026-10-15T14:21:03.651Z",
+          "views": 1256
+        }
+      ]
+    },
+    {
+      "videoId": "QwYiUyeL1tg",
+      "title": "손주 맡기려고 엄마 연애막는 아들 #손주 #엄마 #재혼 #연애 #아들",
+      "status": "watching",
+      "views": 2163,
+      "hourlyGain": 47.529315745886194,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "QwYiUyeL1tg",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 2119
+        },
+        {
+          "videoId": "QwYiUyeL1tg",
+          "observedAt": "2026-10-15T13:40:32.047Z",
+          "views": 2128
+        },
+        {
+          "videoId": "QwYiUyeL1tg",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 2128
+        },
+        {
+          "videoId": "QwYiUyeL1tg",
+          "observedAt": "2026-10-15T13:59:57.353Z",
+          "views": 2144
+        },
+        {
+          "videoId": "QwYiUyeL1tg",
+          "observedAt": "2026-10-15T14:14:55.239Z",
+          "views": 2158
+        },
+        {
+          "videoId": "QwYiUyeL1tg",
+          "observedAt": "2026-10-15T14:21:03.652Z",
+          "views": 2163
+        }
+      ]
+    },
+    {
+      "videoId": "-uJMODQMm5M",
+      "title": "오래 사귀면 기념일에... 장기연애 커플의 현실 #숏박스 #장기연애",
+      "status": "waiting",
+      "views": 1080,
+      "hourlyGain": null,
+      "intervalMinutes": null,
+      "snapshots": [
+        {
+          "videoId": "-uJMODQMm5M",
+          "observedAt": "2026-10-15T14:21:03.652Z",
+          "views": 1080
+        }
+      ]
+    },
+    {
+      "videoId": "4VvwvZuKn_k",
+      "title": "여친 앞에서 연애 고수 티 내면 안 되는 이유",
+      "status": "watching",
+      "views": 10353,
+      "hourlyGain": 437.48574720645246,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "4VvwvZuKn_k",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 9948
+        },
+        {
+          "videoId": "4VvwvZuKn_k",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 10028
+        },
+        {
+          "videoId": "4VvwvZuKn_k",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 10066
+        },
+        {
+          "videoId": "4VvwvZuKn_k",
+          "observedAt": "2026-10-15T13:59:57.353Z",
+          "views": 10241
+        },
+        {
+          "videoId": "4VvwvZuKn_k",
+          "observedAt": "2026-10-15T14:14:55.239Z",
+          "views": 10335
+        },
+        {
+          "videoId": "4VvwvZuKn_k",
+          "observedAt": "2026-10-15T14:21:03.652Z",
+          "views": 10353
+        }
+      ]
+    },
+    {
+      "videoId": "o4yke4awB7c",
+      "title": "연애-결혼 발표 건너뛰고 바로 식장 간 배우 김용지#김용지#김고은#결혼#연예인결혼",
+      "status": "watching",
+      "views": 1483,
+      "hourlyGain": 0,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "o4yke4awB7c",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 1483
+        },
+        {
+          "videoId": "o4yke4awB7c",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 1483
+        },
+        {
+          "videoId": "o4yke4awB7c",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 1483
+        },
+        {
+          "videoId": "o4yke4awB7c",
+          "observedAt": "2026-10-15T13:59:57.353Z",
+          "views": 1483
+        },
+        {
+          "videoId": "o4yke4awB7c",
+          "observedAt": "2026-10-15T14:14:55.239Z",
+          "views": 1483
+        },
+        {
+          "videoId": "o4yke4awB7c",
+          "observedAt": "2026-10-15T14:21:03.652Z",
+          "views": 1483
+        }
+      ]
+    },
+    {
+      "videoId": "M8U05AnF4T4",
+      "title": "엄마가 사온 케익 사기다 VS 아니다 #연애 #가족",
+      "status": "watching",
+      "views": 102003,
+      "hourlyGain": 8111.309816724079,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "M8U05AnF4T4",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 94494
+        },
+        {
+          "videoId": "M8U05AnF4T4",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 96698
+        },
+        {
+          "videoId": "M8U05AnF4T4",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 97107
+        },
+        {
+          "videoId": "M8U05AnF4T4",
+          "observedAt": "2026-10-15T13:59:57.353Z",
+          "views": 100193
+        },
+        {
+          "videoId": "M8U05AnF4T4",
+          "observedAt": "2026-10-15T14:14:55.239Z",
+          "views": 101697
+        },
+        {
+          "videoId": "M8U05AnF4T4",
+          "observedAt": "2026-10-15T14:21:03.652Z",
+          "views": 102003
+        }
+      ]
+    },
+    {
+      "videoId": "ZKq6BU0BlxE",
+      "title": "애매한 연애 #연기 #연기영상 #독백 #신인배우",
+      "status": "watching",
+      "views": 1341,
+      "hourlyGain": 0,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "ZKq6BU0BlxE",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 1341
+        },
+        {
+          "videoId": "ZKq6BU0BlxE",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 1341
+        },
+        {
+          "videoId": "ZKq6BU0BlxE",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 1341
+        },
+        {
+          "videoId": "ZKq6BU0BlxE",
+          "observedAt": "2026-10-15T13:59:57.353Z",
+          "views": 1341
+        },
+        {
+          "videoId": "ZKq6BU0BlxE",
+          "observedAt": "2026-10-15T14:14:55.239Z",
+          "views": 1341
+        },
+        {
+          "videoId": "ZKq6BU0BlxE",
+          "observedAt": "2026-10-15T14:21:03.652Z",
+          "views": 1341
+        }
+      ]
+    },
+    {
+      "videoId": "om-TAoBO0Rc",
+      "title": "돌싱이라 빡치는 순간!! #돌싱#돌싱 #돌싱연애 #재혼준비 #연애심리 #MBTI #MBTI연애 #연애상담 #심리학 #마음챙김 #릴스 #재혼 #연애 #명언",
+      "status": "watching",
+      "views": 1283,
+      "hourlyGain": 0,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "om-TAoBO0Rc",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 1283
+        },
+        {
+          "videoId": "om-TAoBO0Rc",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 1283
+        },
+        {
+          "videoId": "om-TAoBO0Rc",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 1283
+        },
+        {
+          "videoId": "om-TAoBO0Rc",
+          "observedAt": "2026-10-15T13:59:57.353Z",
+          "views": 1283
+        },
+        {
+          "videoId": "om-TAoBO0Rc",
+          "observedAt": "2026-10-15T14:14:55.239Z",
+          "views": 1283
+        },
+        {
+          "videoId": "om-TAoBO0Rc",
+          "observedAt": "2026-10-15T14:21:03.652Z",
+          "views": 1283
+        }
+      ]
+    },
+    {
+      "videoId": "nPMEi5NDSnU",
+      "title": "오늘 나에 대한 마음 한가지 #타로 #연애",
+      "status": "watching",
+      "views": 2785,
+      "hourlyGain": 61.57204965011653,
+      "intervalMinutes": 55.54468333333333,
+      "snapshots": [
+        {
+          "videoId": "nPMEi5NDSnU",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 2728
+        },
+        {
+          "videoId": "nPMEi5NDSnU",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 2747
+        },
+        {
+          "videoId": "nPMEi5NDSnU",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 2747
+        },
+        {
+          "videoId": "nPMEi5NDSnU",
+          "observedAt": "2026-10-15T13:59:57.354Z",
+          "views": 2767
+        },
+        {
+          "videoId": "nPMEi5NDSnU",
+          "observedAt": "2026-10-15T14:14:55.239Z",
+          "views": 2780
+        },
+        {
+          "videoId": "nPMEi5NDSnU",
+          "observedAt": "2026-10-15T14:21:03.653Z",
+          "views": 2785
+        }
+      ]
+    },
+    {
+      "videoId": "edIM19q59rk",
+      "title": "의무감에 사귀는 연애 특",
+      "status": "watching",
+      "views": 2264,
+      "hourlyGain": 74.53458641856211,
+      "intervalMinutes": 55.54468333333333,
+      "snapshots": [
+        {
+          "videoId": "edIM19q59rk",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 2195
+        },
+        {
+          "videoId": "edIM19q59rk",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 2195
+        },
+        {
+          "videoId": "edIM19q59rk",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 2195
+        },
+        {
+          "videoId": "edIM19q59rk",
+          "observedAt": "2026-10-15T13:59:57.354Z",
+          "views": 2195
+        },
+        {
+          "videoId": "edIM19q59rk",
+          "observedAt": "2026-10-15T14:14:55.240Z",
+          "views": 2263
+        },
+        {
+          "videoId": "edIM19q59rk",
+          "observedAt": "2026-10-15T14:21:03.653Z",
+          "views": 2264
+        }
+      ]
+    },
+    {
+      "videoId": "fyQDuSUcT2E",
+      "title": "'환승연애4' 의외라는 이별 이후 지현 원규 최근 근황",
+      "status": "watching",
+      "views": 426387,
+      "hourlyGain": 10503.975628030406,
+      "intervalMinutes": 55.54468333333333,
+      "snapshots": [
+        {
+          "videoId": "fyQDuSUcT2E",
+          "observedAt": "2026-10-15T13:25:30.972Z",
+          "views": 416663
+        },
+        {
+          "videoId": "fyQDuSUcT2E",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 419442
+        },
+        {
+          "videoId": "fyQDuSUcT2E",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 420160
+        },
+        {
+          "videoId": "fyQDuSUcT2E",
+          "observedAt": "2026-10-15T13:59:57.354Z",
+          "views": 424054
+        },
+        {
+          "videoId": "fyQDuSUcT2E",
+          "observedAt": "2026-10-15T14:14:55.240Z",
+          "views": 426040
+        },
+        {
+          "videoId": "fyQDuSUcT2E",
+          "observedAt": "2026-10-15T14:21:03.653Z",
+          "views": 426387
+        }
+      ]
+    },
+    {
+      "videoId": "oVNrBX7K9BU",
+      "title": "사귀고 나서 애인 집에 가기 좋은 시기  #최다니엘 #연애",
+      "status": "watching",
+      "views": 1994,
+      "hourlyGain": 12.962540657968962,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "oVNrBX7K9BU",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 1982
+        },
+        {
+          "videoId": "oVNrBX7K9BU",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 1985
+        },
+        {
+          "videoId": "oVNrBX7K9BU",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 1985
+        },
+        {
+          "videoId": "oVNrBX7K9BU",
+          "observedAt": "2026-10-15T13:59:57.354Z",
+          "views": 1987
+        },
+        {
+          "videoId": "oVNrBX7K9BU",
+          "observedAt": "2026-10-15T14:14:55.240Z",
+          "views": 1993
+        },
+        {
+          "videoId": "oVNrBX7K9BU",
+          "observedAt": "2026-10-15T14:21:03.653Z",
+          "views": 1994
+        }
+      ]
+    },
+    {
+      "videoId": "4Ih4Z1Fejhc",
+      "title": "29살 연애보다 먼저, 나의 가치를 높여라",
+      "status": "watching",
+      "views": 1475,
+      "hourlyGain": 0,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "4Ih4Z1Fejhc",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 1475
+        },
+        {
+          "videoId": "4Ih4Z1Fejhc",
+          "observedAt": "2026-10-15T13:40:32.048Z",
+          "views": 1475
+        },
+        {
+          "videoId": "4Ih4Z1Fejhc",
+          "observedAt": "2026-10-15T13:44:54.867Z",
+          "views": 1475
+        },
+        {
+          "videoId": "4Ih4Z1Fejhc",
+          "observedAt": "2026-10-15T13:59:57.354Z",
+          "views": 1475
+        },
+        {
+          "videoId": "4Ih4Z1Fejhc",
+          "observedAt": "2026-10-15T14:14:55.240Z",
+          "views": 1475
+        },
+        {
+          "videoId": "4Ih4Z1Fejhc",
+          "observedAt": "2026-10-15T14:21:03.653Z",
+          "views": 1475
+        }
+      ]
+    },
+    {
+      "videoId": "dM2hFpUH6qg",
+      "title": "사과는 못 하겠는데 걱정은 되는 이유 l 심리학・커플연애・애착유형・갈등해결",
+      "status": "watching",
+      "views": 1473,
+      "hourlyGain": 0,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "dM2hFpUH6qg",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 1473
+        },
+        {
+          "videoId": "dM2hFpUH6qg",
+          "observedAt": "2026-10-15T13:40:32.049Z",
+          "views": 1473
+        },
+        {
+          "videoId": "dM2hFpUH6qg",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 1473
+        },
+        {
+          "videoId": "dM2hFpUH6qg",
+          "observedAt": "2026-10-15T13:59:57.354Z",
+          "views": 1473
+        },
+        {
+          "videoId": "dM2hFpUH6qg",
+          "observedAt": "2026-10-15T14:14:55.240Z",
+          "views": 1473
+        },
+        {
+          "videoId": "dM2hFpUH6qg",
+          "observedAt": "2026-10-15T14:21:03.653Z",
+          "views": 1473
+        }
+      ]
+    },
+    {
+      "videoId": "qAgY7WxXWs4",
+      "title": "남친을 노예 취급한 미인대회 여친 #연애 #남녀심리 #이효리",
+      "status": "watching",
+      "views": 1507,
+      "hourlyGain": 0,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "qAgY7WxXWs4",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 1507
+        },
+        {
+          "videoId": "qAgY7WxXWs4",
+          "observedAt": "2026-10-15T13:40:32.049Z",
+          "views": 1507
+        },
+        {
+          "videoId": "qAgY7WxXWs4",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 1507
+        },
+        {
+          "videoId": "qAgY7WxXWs4",
+          "observedAt": "2026-10-15T13:59:57.355Z",
+          "views": 1507
+        },
+        {
+          "videoId": "qAgY7WxXWs4",
+          "observedAt": "2026-10-15T14:14:55.240Z",
+          "views": 1507
+        },
+        {
+          "videoId": "qAgY7WxXWs4",
+          "observedAt": "2026-10-15T14:21:03.653Z",
+          "views": 1507
+        }
+      ]
+    },
+    {
+      "videoId": "RG6vmCFe17w",
+      "title": "중저음으로 뼈 때리더니 갑자기 애교 터진 김지원 #드라마 #넷플릭스 #김지원 #박서준 #닥터X #의사 #애교 #깨발랄 #연애 #여사친 #남사친 #카리스마",
+      "status": "watching",
+      "views": 23715,
+      "hourlyGain": 615.7206812535258,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "RG6vmCFe17w",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 23145
+        },
+        {
+          "videoId": "RG6vmCFe17w",
+          "observedAt": "2026-10-15T13:40:32.049Z",
+          "views": 23307
+        },
+        {
+          "videoId": "RG6vmCFe17w",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 23325
+        },
+        {
+          "videoId": "RG6vmCFe17w",
+          "observedAt": "2026-10-15T13:59:57.355Z",
+          "views": 23550
+        },
+        {
+          "videoId": "RG6vmCFe17w",
+          "observedAt": "2026-10-15T14:14:55.240Z",
+          "views": 23704
+        },
+        {
+          "videoId": "RG6vmCFe17w",
+          "observedAt": "2026-10-15T14:21:03.653Z",
+          "views": 23715
+        }
+      ]
+    },
+    {
+      "videoId": "m2o0Jui3r0g",
+      "title": "연애전쟁 이주향 반전 일상 공개 #이주향 #연애전쟁 #미스코리아",
+      "status": "watching",
+      "views": 3141,
+      "hourlyGain": 48.60952746738361,
+      "intervalMinutes": 55.544666666666664,
+      "snapshots": [
+        {
+          "videoId": "m2o0Jui3r0g",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 3096
+        },
+        {
+          "videoId": "m2o0Jui3r0g",
+          "observedAt": "2026-10-15T13:40:32.050Z",
+          "views": 3106
+        },
+        {
+          "videoId": "m2o0Jui3r0g",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 3109
+        },
+        {
+          "videoId": "m2o0Jui3r0g",
+          "observedAt": "2026-10-15T13:59:57.355Z",
+          "views": 3126
+        },
+        {
+          "videoId": "m2o0Jui3r0g",
+          "observedAt": "2026-10-15T14:14:55.241Z",
+          "views": 3139
+        },
+        {
+          "videoId": "m2o0Jui3r0g",
+          "observedAt": "2026-10-15T14:21:03.653Z",
+          "views": 3141
+        }
+      ]
+    },
+    {
+      "videoId": "caYE8EuR_-g",
+      "title": "연애 금지를 믿지 못하는 박지원",
+      "status": "watching",
+      "views": 108303,
+      "hourlyGain": 863.0889064990018,
+      "intervalMinutes": 55.54468333333333,
+      "snapshots": [
+        {
+          "videoId": "caYE8EuR_-g",
+          "observedAt": "2026-10-15T13:25:30.973Z",
+          "views": 107504
+        },
+        {
+          "videoId": "caYE8EuR_-g",
+          "observedAt": "2026-10-15T13:40:32.050Z",
+          "views": 107700
+        },
+        {
+          "videoId": "caYE8EuR_-g",
+          "observedAt": "2026-10-15T13:44:54.868Z",
+          "views": 107759
+        },
+        {
+          "videoId": "caYE8EuR_-g",
+          "observedAt": "2026-10-15T13:59:57.355Z",
+          "views": 108044
+        },
+        {
+          "videoId": "caYE8EuR_-g",
+          "observedAt": "2026-10-15T14:14:55.241Z",
+          "views": 108286
+        },
+        {
+          "videoId": "caYE8EuR_-g",
+          "observedAt": "2026-10-15T14:21:03.654Z",
+          "views": 108303
+        }
+      ]
+    }
+  ]
+}
