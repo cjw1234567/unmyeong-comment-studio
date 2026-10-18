@@ -21,5 +21,10 @@
     "status": "verified",
     "note": "2026-10-17 전체 체크리스트 시연 2분 25.08초, 1280×1000. 실제 앱 재촬영과 10월 15일 게시 원본을 날짜·속도·정지 장면으로 구분. 세 칸·입력·게시·본인 수정 메뉴·비밀값 검사·오픈소스 출처를 최종 추출 프레임으로 직접 검수.",
     "artifact": "demo/full-checklist-demo.webm"
+  },
+  "publicRepository": {
+    "status": "verified",
+    "note": "2026-10-19 GitHub 공개 저장소에 소스·문서·최종 시연 영상 게시, 로그아웃된 브라우저에서 Public·README·영상 파일 확인",
+    "url": "https://github.com/cositservice/unmyeong-comment-studio"
   }
 }

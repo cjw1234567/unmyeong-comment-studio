@@ -4,7 +4,7 @@
 
 ## 시연 영상과 제출 체크리스트
 
-**[2분 25초 전체 시연 영상](demo/full-checklist-demo.webm)**의 구간별 시각·재녹화 명령은 [DEMO.md](DEMO.md)에 있습니다. 화면 설명 자막을 넣은 무음 영상이며, 다음 순서를 한 영상에 수록했습니다.
+**[2분 25초 전체 시연 영상 재생·다운로드](https://github.com/cositservice/unmyeong-comment-studio/raw/refs/heads/main/demo/full-checklist-demo.webm)**의 구간별 시각·재녹화 명령은 [DEMO.md](DEMO.md)에 있습니다. GitHub 파일 화면에서 미리보기가 되지 않으면 링크를 눌러 원본 파일을 여세요. 화면 설명 자막을 넣은 무음 영상이며, 다음 순서를 한 영상에 수록했습니다.
 
 1. **세 칸 사용**: 왼쪽에서 본인 테스트 영상을 선택하고, 가운데에서 고민·85자 초안·근거를 확인한 뒤, 오른쪽에서 유튜브1과 게시 조건을 확인합니다.
 2. **한 글자씩 타이핑 → 게시**: 2026-10-15 22:45 KST의 실제 Chrome 녹화를 이어 보여줍니다. 댓글 영역을 확대하고 입력 구간을 0.5배속, 게시 순간을 0.25배속으로 표시하여 글자가 순서대로 들어가는 과정과 YouTube ‘댓글’ 버튼 실행을 확인할 수 있습니다.
@@ -58,7 +58,7 @@ open 'https://www.google.com/chrome/'
 
 **3. 소스 ZIP 다운로드 → 설치·빌드·실행**
 
-제출자에게 받은 **`unmyeong-comment-studio-날짜.zip` 소스 파일을 다운로드**합니다. 공개 Git 저장소가 제공된 경우에는 저장소의 **Code → Download ZIP**으로 받아도 됩니다. ZIP을 미리 압축 해제할 필요는 없습니다. 아래 명령을 실행하면 파일 선택 창이 열리므로 **다운로드한 소스 ZIP**을 선택하세요.
+[공개 제출 저장소](https://github.com/cositservice/unmyeong-comment-studio)의 **Code → Download ZIP**을 눌러 전체 소스를 받습니다. 제출자에게 별도로 받은 `unmyeong-comment-studio-날짜.zip`을 사용해도 됩니다. ZIP을 미리 압축 해제할 필요는 없습니다. 아래 명령을 실행하면 파일 선택 창이 열리므로 **다운로드한 소스 ZIP**을 선택하세요.
 
 ```sh
 (

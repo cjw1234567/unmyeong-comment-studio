@@ -4,7 +4,7 @@
 
 2026-10-17에 실제 앱 화면을 재촬영하고, 2026-10-15 22:45 KST에 성공한 실제 첫 게시 원본을 연결했다. **2분 25.08초, 1280×1000, WebM/VP9, 화면 설명 자막이 있는 무음 영상**이다. 시연용 댓글을 다시 게시하지 않았고, 모의 체험 서버를 사용하지 않았다.
 
-제출 파일: [demo/full-checklist-demo.webm](demo/full-checklist-demo.webm). 이전 `real-studio-walkthrough-final.webm` 대신 이 전체 체크리스트 영상을 사용한다. 편집 전 원본은 `.local/`에 보관하고 공개 저장소에서 제외한다.
+제출 파일: [demo/full-checklist-demo.webm](https://github.com/cositservice/unmyeong-comment-studio/raw/refs/heads/main/demo/full-checklist-demo.webm). GitHub 파일 화면에서 미리보기가 되지 않으면 이 원본 링크로 재생하거나 다운로드한다. 이전 `real-studio-walkthrough-final.webm` 대신 이 전체 체크리스트 영상을 사용한다. 편집 전 원본은 `.local/`에 보관하고 공개 저장소에서 제외한다.
 
 ## 구간 안내
 
